@@ -19,4 +19,7 @@ margin-left: 10px;
     .products-container{
         grid-template-columns: repeat(1,1fr);
     }
+    .cart-container{
+        display: none;
+    }
 }
