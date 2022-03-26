@@ -11,8 +11,9 @@ margin-left: 10px;
     gap: 20px;
 }
 .cart-container{
-    background-color: rgb(18, 115, 172);
+    background-color: #05253371;
     color: white;
+    /* height: 500px; */
 }
 @media screen and (max-width:425px){
     .products-container{

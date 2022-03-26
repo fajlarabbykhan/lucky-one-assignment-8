@@ -1,0 +1,40 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+.cart h4{
+    text-align: center;
+}
+.cart img{
+    height: 80px;
+    border-radius: 50%;
+    margin: 5px;
+}
+.cart li{
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    border: none;
+    color: white;
+    background: none;
+
+}
+.btn:hover{
+    color: rgb(218, 5, 5);
+}
+.btn-last{
+    width: 70%;
+    margin-left: 50px;
+    color: white;
+    background-color: #05253371;
+    padding: 10px;
+    border: none;
+}
+.btn-last:hover{
+        background-color: rgb(152, 127, 175);
+    
+}
