@@ -16,3 +16,11 @@
 .header-nav a:hover{
     color: rgb(114, 31, 190);
 }
+@media screen and (max-width:425px){
+    .header-nav a{
+        display: none;
+    }
+    .header-nav img{
+        margin: auto;
+    }
+}
