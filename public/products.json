@@ -1,0 +1,87 @@
+[
+  {
+    "id": "1",
+    "name": "4DFWD PULSE SHOES",
+    "price": 226,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9a8256bb7ca34da49ff8ad5600bb2812_9366/4DFWD_Pulse_Shoes_White_Q46221_01_standard.jpg"
+  },
+  {
+    "id": "2",
+    "name": "ZX 1K BOOST SHOES",
+    "price": 319,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e540bae86d5456aa034ada300ebf46c_9366/ZX_1K_Boost_Shoes_Grey_H00430_01_standard.jpg"
+  },
+  {
+    "id": "3",
+    "name": "NMD_R1 V2 SHOES",
+    "price": 260,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2a18c4e3f104d52a697ad6a01477bb7_9366/NMD_R1_V2_Shoes_Black_GX6367_01_standard.jpg"
+  },
+  {
+    "id": "4",
+    "name": "NMD_R1 PRIMEBLUE SHOES",
+    "price": 437,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0e03e7a2a9cb44dfac2bad6a00f95888_9366/NMD_R1_Primeblue_Shoes_White_GZ9261_01_standard.jpg"
+  },
+  {
+    "id": "5",
+    "name": "TERREX FREE HIKER GORE-TEX HIKING SHOES",
+    "price": 132,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/12cf12ac1c8e484ea487ad6400ee3444_9366/Terrex_Free_Hiker_Gore-Tex_Hiking_Shoes_Black_GZ0355_01_standard.jpg"
+  },
+  {
+    "id": "6",
+    "name": "TERREX AX4 MID GORE-TEX HIKING SHOES",
+    "price": 111,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dfa8c9a7d2864065b27fad7400b2e05e_9366/Terrex_AX4_Mid_GORE-TEX_Hiking_shoes_Black_FY9638_01_standard.jpg"
+  },
+  {
+    "id": "7",
+    "name": "RESPONSE 3MC ADV BOOTS",
+    "price": 104,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b513f2cec8b440978d60ab6d014ad452_9366/Response_3MC_ADV_Boots_Black_EG9391_01_standard.jpg"
+  },
+  {
+    "id": "8",
+    "name": "TACTICAL LEXICON ADV BOOTS",
+    "seller": "Addidas",
+    "price": 151,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f5350f3d583c46038534ab6d01445e2a_9366/Tactical_Lexicon_ADV_Boots_Grey_EG9386_01_standard.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Superstar Boots",
+    "price": 151,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/6853ac5565a9407bae19ac080120d9d7_9366/Superstar_Boots_Red_FZ2642_01_standard.jpg"
+  },
+  {
+    "id": "10",
+    "name": "TACTICAL LEXICON ADV BOOTS",
+    "price": 199,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a819de9f29c498fae13ab6d01473c4d_9366/Tactical_Lexicon_ADV_Boots_White_EG9385_01_standard.jpg"
+  },
+  {
+    "id": "11",
+    "name": "TERREX TRAILMAKER MID COLD.RDY HIKING SHOES",
+    "price": 110,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c2ee4c27eba64258bcbaad5100e5d998_9366/Terrex_Trailmaker_Mid_COLD.RDY_Hiking_Shoes_Brown_FZ3370_01_standard.jpg"
+  },
+  {
+    "id": "12",
+    "name": "TERREX FREE HIKER GORE-TEX HIKING SHOES",
+    "price": 155,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/efbedb26b92e4affa103ad6b008a789a_9366/Terrex_Free_Hiker_Gore-Tex_Hiking_Shoes_Grey_GZ0356_01_standard.jpg"
+  },
+  {
+    "id": "13",
+    "name": "TERREX AGRAVIC TECH PRO TRAIL RUNNING SHOES",
+    "price": 118,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/0a340319370844e99645abc90091df96_9366/Terrex_Agravic_Tech_Pro_Trail_Running_Shoes_Black_FU7634_01_standard.jpg"
+  },
+  {
+    "id": "14",
+    "name": "TERREX FREE HIKER COLD.RDY HIKING BOOTS",
+    "price": 169,
+    "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2ded0bee28b249bbb19cad5000818b77_9366/Terrex_Free_Hiker_COLD.RDY_Hiking_Boots_Black_FZ3364_01_standard.jpg"
+  }
+]
